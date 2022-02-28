@@ -1,6 +1,7 @@
 # Week 2 course assignment
 
 # Importing and aggregating data
+setwd(...)
 cdata = read.csv("customer_satisfaction.csv")
 View(cdata)
 
